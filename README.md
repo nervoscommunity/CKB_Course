@@ -1,6 +1,6 @@
 # CKB Experience Course
 
-[分组](groups.md)|[结业作业](last_homework.md)
+[分组情况](groups.md)|[结业大作业](last_homework.md)
 
 ## 课程表
 
