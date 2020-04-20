@@ -71,7 +71,7 @@
 4. 小作业（TBD）
 
 
-### 第四讲：CKB Script 开发篇3：使用 JavaScript 编写CKB Script（58周五）
+### 第四讲：CKB Script 开发篇3：使用 JavaScript 编写CKB Script（5/8周五）
 
 目的：介绍如何使用 JavaScript 进行合约编写，使用 JavaScript debugger，Molecule，构造交易
  
